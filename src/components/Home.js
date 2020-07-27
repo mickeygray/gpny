@@ -507,7 +507,7 @@ const Home = () => {
         </h1>
         <h2 className='text-danger all-center'>
           GEOFF PLOURDE KNOWINGLY SENT FRAUDULENT MAILERS TO TAX PAYERS IN NEW
-          YORK WHERE HE IS A REGISTERED ENROLLED AGENTS. THESE MAILERS
+          YORK WHERE HE IS A REGISTERED ENROLLED AGENT/CPA. THESE MAILERS
           TERRORIZED PEOPLE ALL ACROSS THE COUNTRY
         </h2>
         <h3 className='text-danger all-center'>
