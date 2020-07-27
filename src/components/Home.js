@@ -501,14 +501,22 @@ const Home = () => {
 
   return (
     <div>
-      <h1 className='text-danger all-center'>AMERICAN TAX SOLUTIONS SCAM</h1>
-      <h2 className='text-danger all-center'>
-      GEOFF PLOURDE KNOWINGLY SENT FRAUDULENT MAILERS TO TAX PAYERS IN NEW YORK WHERE HE IS A REGISTERED ENROLLED AGENTS. THESE MAILERS TERRORIZED PEOPLE ALL ACROSS THE COUNTRY
-      </h2>
-      <h3 className='text-danger all-center'>
- GEOFF PLOURDE KNOWINGLY AND FRAUDULENTLY SENDS TENS OF THOUSANDS OF DOLLARS OF ILLEGAL MARKETING MATERIAL TO TAX PAYERS IN NEW YORK STATE WHERE HE IS PURSUING A BAR LICENSE AND ACTIVELY USES HIS CPA LICENSE TO "HELP CLIENTS"
-      </h3>
-
+      <div>
+        <h1 className='text-danger all-center'>
+          GEOFF PLOURDE NEW YORK MAILER SCAM
+        </h1>
+        <h2 className='text-danger all-center'>
+          GEOFF PLOURDE KNOWINGLY SENT FRAUDULENT MAILERS TO TAX PAYERS IN NEW
+          YORK WHERE HE IS A REGISTERED ENROLLED AGENTS. THESE MAILERS
+          TERRORIZED PEOPLE ALL ACROSS THE COUNTRY
+        </h2>
+        <h3 className='text-danger all-center'>
+          GEOFF PLOURDE KNOWINGLY AND FRAUDULENTLY SENDS TENS OF THOUSANDS OF
+          DOLLARS OF ILLEGAL MARKETING MATERIAL TO TAX PAYERS IN NEW YORK STATE
+          WHERE HE IS PURSUING A BAR LICENSE AND ACTIVELY USES HIS CPA LICENSE
+          TO "HELP CLIENTS"
+        </h3>
+      </div>
       <div>
         <h5>
           Information regarding The State of New York investigating mailers
@@ -553,286 +561,288 @@ const Home = () => {
           </Slider>
         </CarouselProvider>
       </div>
-    <div>
-      <h1 className='text-danger all-center'>AMERICAN TAX SOLUTIONS SCAM</h1>
-      <h2 className='text-danger all-center'>
-        AMERICAN TAX SOLUTIONS IS A SCAM
-      </h2>
-      <h3 className='text-danger all-center'>
-        AMERICAN TAX SOLUTIONS USES A MENTAL INVALID WHO HE CONTROLS THROUGH A
-        COURT APPOINTED DURABLE POWER OF ATTORNEY AS THE CEO OF HIS FRAUDULENT
-        CORPORATION AMERICAN TAX SOLUTIONS INC. HE ALSO SENDS DECEPTIVE LETTERS
-        THAT ARE MEANT TO IMPERSONATE THE GOVERNMENT.
-      </h3>
-      <img
-        src={terrychris}
-        style={{
-          width: "100vw",
-          height: "75vh",
-        }}
-        alt='american tax solutions'
-      />
-      <img
-        alt='american tax solutions'
-        src={hero}
-        style={{
-          width: "100vw",
-          height: "75vh",
-          position: "absolute",
-          top: "10",
-          zIndex: "-1",
-        }}
-      />
-      <div className='container'>
-        <h5 className='lead text-danger'>
-          Terry Selb owns and operates American Tax Solutions under the name
-          Chris Baker (who is a mental invalid). American Tax Solutions has
-          defrauded hundreds of people with deceptive advertising and illicit
-          money management.
-        </h5>
-        <br />
-        <br />
-
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <p className='lead text-danger'>
-          "I don’t know but profits have been so good that Terry now has a
-          Maybach and a driver." <br /> Chris Baker
-        </p>
-      </div>
-
       <div>
-        <p className='text-danger lead'>
-          This is the worst of the letters sent by American Tax Solutions
-        </p>
-        <div className='grid-2'>
-          <div>
-            <h5>Terry Selb American Tax Solutions</h5>
-            <img src={criminal} alt='Terry Selb American Tax Solutions' />
-          </div>
-          <div>
-            <h5>Terry Selb American Tax Solutions</h5>
-            <img src={img} alt='Terry Selb American Tax Solutions' />
-          </div>
+        <h1 className='text-danger all-center'>AMERICAN TAX SOLUTIONS SCAM</h1>
+        <h2 className='text-danger all-center'>
+          AMERICAN TAX SOLUTIONS IS A SCAM
+        </h2>
+        <h3 className='text-danger all-center'>
+          AMERICAN TAX SOLUTIONS USES A MENTAL INVALID WHO HE CONTROLS THROUGH A
+          COURT APPOINTED DURABLE POWER OF ATTORNEY AS THE CEO OF HIS FRAUDULENT
+          CORPORATION AMERICAN TAX SOLUTIONS INC. HE ALSO SENDS DECEPTIVE
+          LETTERS THAT ARE MEANT TO IMPERSONATE THE GOVERNMENT.
+        </h3>
+        <img
+          src={terrychris}
+          style={{
+            width: "100vw",
+            height: "75vh",
+          }}
+          alt='american tax solutions'
+        />
+        <img
+          alt='american tax solutions'
+          src={hero}
+          style={{
+            width: "100vw",
+            height: "75vh",
+            position: "absolute",
+            top: "10",
+            zIndex: "-1",
+          }}
+        />
+        <div className='container'>
+          <h5 className='lead text-danger'>
+            Terry Selb owns and operates American Tax Solutions under the name
+            Chris Baker (who is a mental invalid). American Tax Solutions has
+            defrauded hundreds of people with deceptive advertising and illicit
+            money management.
+          </h5>
+          <br />
+          <br />
 
-          <div>
-            <h5>Terry Selb American Tax Solutions</h5>
-            <img src={img6} alt='Terry Selb American Tax Solutions' />
-          </div>
-          <div>
-            <h5>Terry Selb American Tax Solutions</h5>
-            <img src={img7} alt='Terry Selb American Tax Solutions' />
-          </div>
-          <div>
-            <h5>Terry Selb American Tax Solutions</h5>
-            <img src={img8} alt='Terry Selb American Tax Solutions' />
-          </div>
-          <div>
-            <h5>Terry Selb American Tax Solutions</h5>
-            <img src={img9} alt='Terry Selb American Tax Solutions' />
-          </div>
-          <div>
-            <h5>Terry Selb American Tax Solutions</h5>
-            <img src={img10} alt='Terry Selb American Tax Solutions' />
-          </div>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <p className='lead text-danger'>
+            "I don’t know but profits have been so good that Terry now has a
+            Maybach and a driver." <br /> Chris Baker
+          </p>
         </div>
-      </div>
 
-      <h5 className='text-danger'>
-        Here are is the corporate paperwork, notice the overlap between
-        addresses where in some instances Chris Baker is used as a signatoree
-        and in others with a same address Terry Selb.
-      </h5>
-      <div className='grid-3'>
         <div>
-          <img src={corp1} alt='Terry Selb American Tax Solutions' />
+          <p className='text-danger lead'>
+            This is the worst of the letters sent by American Tax Solutions
+          </p>
+          <div className='grid-2'>
+            <div>
+              <h5>Terry Selb American Tax Solutions</h5>
+              <img src={criminal} alt='Terry Selb American Tax Solutions' />
+            </div>
+            <div>
+              <h5>Terry Selb American Tax Solutions</h5>
+              <img src={img} alt='Terry Selb American Tax Solutions' />
+            </div>
+
+            <div>
+              <h5>Terry Selb American Tax Solutions</h5>
+              <img src={img6} alt='Terry Selb American Tax Solutions' />
+            </div>
+            <div>
+              <h5>Terry Selb American Tax Solutions</h5>
+              <img src={img7} alt='Terry Selb American Tax Solutions' />
+            </div>
+            <div>
+              <h5>Terry Selb American Tax Solutions</h5>
+              <img src={img8} alt='Terry Selb American Tax Solutions' />
+            </div>
+            <div>
+              <h5>Terry Selb American Tax Solutions</h5>
+              <img src={img9} alt='Terry Selb American Tax Solutions' />
+            </div>
+            <div>
+              <h5>Terry Selb American Tax Solutions</h5>
+              <img src={img10} alt='Terry Selb American Tax Solutions' />
+            </div>
+          </div>
         </div>
-        <div>
-          <img src={corp2} alt='Terry Selb American Tax Solutions' />
-        </div>
-        <div>
-          <img src={corp3} alt='Terry Selb American Tax Solutions' />
-        </div>
-      </div>
-      <div>
-        <h5>
-          Reading through the requests here. Chris Baker is clearly recieving
-          small daily sums for basic necessities from Terry Selb and is clearly
-          not of sound enough mind to or economically stable enough to run a
-          company when you read the manner in which requests are made to Mr.
-          Selb.
+
+        <h5 className='text-danger'>
+          Here are is the corporate paperwork, notice the overlap between
+          addresses where in some instances Chris Baker is used as a signatoree
+          and in others with a same address Terry Selb.
         </h5>
-        <CarouselProvider
-          naturalSlideWidth={100}
-          naturalSlideHeight={125}
-          totalSlides={13}>
-          <ButtonBack>Back</ButtonBack>
-          <ButtonNext>Next</ButtonNext>
-          <Slider>
-            <Slide index={0}>
-              <img src={venmo0} alt='Terry Selb American Tax Solutions' />
-            </Slide>
-            <Slide index={1}>
-              <img src={venmo1} alt='Terry Selb American Tax Solutions' />
-            </Slide>
-            <Slide index={2}>
-              <img src={venmo2} alt='Terry Selb American Tax Solutions' />
-            </Slide>
-            <Slide index={3}>
-              <img src={venmo3} alt='' />
-            </Slide>
-            <Slide index={4}>
-              <img src={venmo4} alt='' />
-            </Slide>
-            <Slide index={6}>
-              <img src={venmo5} alt='' />
-            </Slide>
-            <Slide index={5}>
-              <img src={venmo6} alt='' />
-            </Slide>
-            <Slide index={7}>
-              <img src={venmo7} alt='' />
-            </Slide>
-            <Slide index={8}>
-              <img src={venmo8} alt='' />
-            </Slide>
-            <Slide index={9}>
-              <img src={venmo9} alt='' />
-            </Slide>
-          </Slider>
-        </CarouselProvider>
-      </div>
+        <div className='grid-3'>
+          <div>
+            <img src={corp1} alt='Terry Selb American Tax Solutions' />
+          </div>
+          <div>
+            <img src={corp2} alt='Terry Selb American Tax Solutions' />
+          </div>
+          <div>
+            <img src={corp3} alt='Terry Selb American Tax Solutions' />
+          </div>
+        </div>
+        <div>
+          <h5>
+            Reading through the requests here. Chris Baker is clearly recieving
+            small daily sums for basic necessities from Terry Selb and is
+            clearly not of sound enough mind to or economically stable enough to
+            run a company when you read the manner in which requests are made to
+            Mr. Selb.
+          </h5>
+          <CarouselProvider
+            naturalSlideWidth={100}
+            naturalSlideHeight={125}
+            totalSlides={13}>
+            <ButtonBack>Back</ButtonBack>
+            <ButtonNext>Next</ButtonNext>
+            <Slider>
+              <Slide index={0}>
+                <img src={venmo0} alt='Terry Selb American Tax Solutions' />
+              </Slide>
+              <Slide index={1}>
+                <img src={venmo1} alt='Terry Selb American Tax Solutions' />
+              </Slide>
+              <Slide index={2}>
+                <img src={venmo2} alt='Terry Selb American Tax Solutions' />
+              </Slide>
+              <Slide index={3}>
+                <img src={venmo3} alt='' />
+              </Slide>
+              <Slide index={4}>
+                <img src={venmo4} alt='' />
+              </Slide>
+              <Slide index={6}>
+                <img src={venmo5} alt='' />
+              </Slide>
+              <Slide index={5}>
+                <img src={venmo6} alt='' />
+              </Slide>
+              <Slide index={7}>
+                <img src={venmo7} alt='' />
+              </Slide>
+              <Slide index={8}>
+                <img src={venmo8} alt='' />
+              </Slide>
+              <Slide index={9}>
+                <img src={venmo9} alt='' />
+              </Slide>
+            </Slider>
+          </CarouselProvider>
+        </div>
 
-      <div className='my-3'>
-        <h5>This is full text versions of the some of the mailers</h5>
-        <CarouselProvider
-          naturalSlideWidth={100}
-          naturalSlideHeight={125}
-          totalSlides={13}>
-          <ButtonBack>Back</ButtonBack>
-          <ButtonNext>Next</ButtonNext>
-          <Slider>
-            <Slide index={0}>
-              <div className='card'>
-                <h5>
-                  Bureau of Tax Enforcement <br />
-                  Internal Processing Service <br />
-                  For New Castle County <br />
-                  Public Judgement Records
-                </h5>
+        <div className='my-3'>
+          <h5>This is full text versions of the some of the mailers</h5>
+          <CarouselProvider
+            naturalSlideWidth={100}
+            naturalSlideHeight={125}
+            totalSlides={13}>
+            <ButtonBack>Back</ButtonBack>
+            <ButtonNext>Next</ButtonNext>
+            <Slider>
+              <Slide index={0}>
+                <div className='card'>
+                  <h5>
+                    Bureau of Tax Enforcement <br />
+                    Internal Processing Service <br />
+                    For New Castle County <br />
+                    Public Judgement Records
+                  </h5>
 
-                <p>
-                  [Name] YOUR PROPERTY WILL BE SEIZED <br />
-                  Final Demand for Payment <br /> for Nonpayment of Taxes to The
-                  State of Delaware The State of Delaware has attempted to
-                  collect the overdue above debt <br /> which has not been paid.
-                  You must call [Number] by 4/29/2019 <br />
-                  The State of Delaware will seize this property for nonpayment
-                  of taxes, penalty and interest due to the State.
-                  <br /> During this seizure it will be against the law to
-                  enter, dismantle, take possession of or remove anything from
-                  your property. The State of Delaware will impose to
-                  garnishment on all bank accounts and income in the of [Name]{" "}
-                  <br />
-                  Note to avoid enforcement call [number] by 4/29/2019
-                  <br /> or further action will be taken against you.
-                </p>
-              </div>
-            </Slide>
-            <Slide index={1}>
-              <div className='card'>
-                <h5>
-                  Tax Enforcement Department <br />
-                  Internal Processing Service <br />
-                  For Sullivan County <br />
-                  Public Judgement Records <br />
-                </h5>
+                  <p>
+                    [Name] YOUR PROPERTY WILL BE SEIZED <br />
+                    Final Demand for Payment <br /> for Nonpayment of Taxes to
+                    The State of Delaware The State of Delaware has attempted to
+                    collect the overdue above debt <br /> which has not been
+                    paid. You must call [Number] by 4/29/2019 <br />
+                    The State of Delaware will seize this property for
+                    nonpayment of taxes, penalty and interest due to the State.
+                    <br /> During this seizure it will be against the law to
+                    enter, dismantle, take possession of or remove anything from
+                    your property. The State of Delaware will impose to
+                    garnishment on all bank accounts and income in the of [Name]{" "}
+                    <br />
+                    Note to avoid enforcement call [number] by 4/29/2019
+                    <br /> or further action will be taken against you.
+                  </p>
+                </div>
+              </Slide>
+              <Slide index={1}>
+                <div className='card'>
+                  <h5>
+                    Tax Enforcement Department <br />
+                    Internal Processing Service <br />
+                    For Sullivan County <br />
+                    Public Judgement Records <br />
+                  </h5>
 
-                <p>
-                  The Internal Revenue Service has attempted to obtain
-                  delinquent tax payments. You have not responded to the prior
-                  notice(s) issued to address in your name. You must respond by
-                  the due date and you must PAY IN FULL OR CALL [Number] What
-                  Will Happen: We are writing to inform you that if no direct
-                  action is taken by you the Internal Revenue Service may be
-                  forced to collect [amount] in overdue taxes by taking , which
-                  is called levying property and selling them. The need to levy
-                  property will not cease until action is taken to pay the debt
-                  owed, your United States passworked will be revoked along with
-                  your driver’s license. What You Must Do: To avoid enforced
-                  collection by levy, call [number] by 3/4/2019 or further
-                  actions will be taken in exacting the value by levying.
-                  Failure to respond to official notice is the same as
-                  non-compliance. If you have any questions regarding this
-                  letter, please do not hesitate to contact us at the telephone
-                  number listed above.
-                </p>
-              </div>
-            </Slide>
+                  <p>
+                    The Internal Revenue Service has attempted to obtain
+                    delinquent tax payments. You have not responded to the prior
+                    notice(s) issued to address in your name. You must respond
+                    by the due date and you must PAY IN FULL OR CALL [Number]
+                    What Will Happen: We are writing to inform you that if no
+                    direct action is taken by you the Internal Revenue Service
+                    may be forced to collect [amount] in overdue taxes by taking
+                    , which is called levying property and selling them. The
+                    need to levy property will not cease until action is taken
+                    to pay the debt owed, your United States passworked will be
+                    revoked along with your driver’s license. What You Must Do:
+                    To avoid enforced collection by levy, call [number] by
+                    3/4/2019 or further actions will be taken in exacting the
+                    value by levying. Failure to respond to official notice is
+                    the same as non-compliance. If you have any questions
+                    regarding this letter, please do not hesitate to contact us
+                    at the telephone number listed above.
+                  </p>
+                </div>
+              </Slide>
 
-            <Slide index={2}>
-              <div className='card'>
-                <h5>Notice of Warranted Lien</h5>
+              <Slide index={2}>
+                <div className='card'>
+                  <h5>Notice of Warranted Lien</h5>
 
-                <p>
-                  This notice has been issued against the above named debtors
-                  because of the tax debt that has not been paid. This is not a
-                  warrant. This notice serves the same function as a public
-                  notification. The Taxing Authority has placed a lien in your
-                  name and may take collection action, such as garnishment of
-                  wages, bank accounts, property seizures, federal tax refund
-                  offset, and creation of a line. To avoid enforcement call
-                  [number] Note Interest may continue to accrue until the
-                  balance is paid in full by due date. This notice acts as a
-                  notification against the debtors. A lien has been filed on any
-                  property now owned or acquired in the future until the debt is
-                  paid in full. This notice has been sent to [name] due to the
-                  taxes owened to the Authority and levying procedures may begin
-                  within 15 days of its receipt. You are to respond by due date
-                  and pay in full or call [number] to avoid action.
-                </p>
-              </div>
-            </Slide>
-            <br />
+                  <p>
+                    This notice has been issued against the above named debtors
+                    because of the tax debt that has not been paid. This is not
+                    a warrant. This notice serves the same function as a public
+                    notification. The Taxing Authority has placed a lien in your
+                    name and may take collection action, such as garnishment of
+                    wages, bank accounts, property seizures, federal tax refund
+                    offset, and creation of a line. To avoid enforcement call
+                    [number] Note Interest may continue to accrue until the
+                    balance is paid in full by due date. This notice acts as a
+                    notification against the debtors. A lien has been filed on
+                    any property now owned or acquired in the future until the
+                    debt is paid in full. This notice has been sent to [name]
+                    due to the taxes owened to the Authority and levying
+                    procedures may begin within 15 days of its receipt. You are
+                    to respond by due date and pay in full or call [number] to
+                    avoid action.
+                  </p>
+                </div>
+              </Slide>
+              <br />
 
-            <Slide index={3}>
-              <div className='card'>
-                <h5>
-                  Benefits suspension unit Madison County Public Judgement
-                  Records
-                </h5>
+              <Slide index={3}>
+                <div className='card'>
+                  <h5>
+                    Benefits suspension unit Madison County Public Judgement
+                    Records
+                  </h5>
 
-                <p>
-                  Notice of Intent to Levy Social Security Benefits <br />
-                  Amount Due : 10000 Due by : 02/29/2020 Dear Name This notice
-                  has been issued against the debtor name because of a lien
-                  filing duie to the tax liability that has not been paid. This
-                  letter serves as a final judgement notice. The state of
-                  Montana can now take enforcement action such as seizing social
-                  security benefits and garnishing wages and bank accounts to
-                  satisfy the outstanding debt owed. IF no action is taken by
-                  [date] the State of Montana may permanently revoke benefits,
-                  spuspend license and levy and federal tax refund gained this
-                  year. Your debt must be resolved in full to remove the lien.
-                  To avoid enforcement, Call Number within 15 days of receiving
-                  this notice. Failure to respond in time will cause an
-                  additional penalty to accumulate and lead to default
-                  judgement.
-                </p>
-              </div>
-            </Slide>
-          </Slider>
-        </CarouselProvider>
-      </div>
-      <div className='grid-2' style={{ maxHeight: "50%" }}>
-        <h3>AMERICAN TAX SOLUTIONS HEADLINES</h3>
-        {news.map((newa) => (
-          <NewsItem key={newa.URL} newa={newa} />
-        ))}
+                  <p>
+                    Notice of Intent to Levy Social Security Benefits <br />
+                    Amount Due : 10000 Due by : 02/29/2020 Dear Name This notice
+                    has been issued against the debtor name because of a lien
+                    filing duie to the tax liability that has not been paid.
+                    This letter serves as a final judgement notice. The state of
+                    Montana can now take enforcement action such as seizing
+                    social security benefits and garnishing wages and bank
+                    accounts to satisfy the outstanding debt owed. IF no action
+                    is taken by [date] the State of Montana may permanently
+                    revoke benefits, spuspend license and levy and federal tax
+                    refund gained this year. Your debt must be resolved in full
+                    to remove the lien. To avoid enforcement, Call Number within
+                    15 days of receiving this notice. Failure to respond in time
+                    will cause an additional penalty to accumulate and lead to
+                    default judgement.
+                  </p>
+                </div>
+              </Slide>
+            </Slider>
+          </CarouselProvider>
+        </div>
+        <div className='grid-2' style={{ maxHeight: "50%" }}>
+          <h3>AMERICAN TAX SOLUTIONS HEADLINES</h3>
+          {news.map((newa) => (
+            <NewsItem key={newa.URL} newa={newa} />
+          ))}
+        </div>
       </div>
     </div>
   );
